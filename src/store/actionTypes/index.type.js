@@ -1,0 +1,4 @@
+export const CHANGE_LOGIN_STATUS = 'CHANGE_LOGIN_STATUS'
+
+export const LOGIN_STATUS_NO = 'NO_LOGIN'
+export const LOGIN_STATUS_HAS = 'HAS_LOGIN'
